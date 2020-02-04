@@ -1,5 +1,10 @@
-# myProject
+# PowerGun-Lab
 
-+ 자바 sysout 변환기
-+ webBrowser
++ JAVA Mecro
++ JAVA GUI
++ C# webBrowser
 + 엑셀
++ JNI 
++ MIDI
+
+
